@@ -4,7 +4,7 @@ This repository contains my JavaScript learning exercises.
 - Callbacks
 
 ## Files
-### callback-greet.js
+### Callback-greet.js
 basic example of using a callback function
 
 ## How to Run
