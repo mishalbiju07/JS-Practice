@@ -7,11 +7,13 @@ This repository contains my JavaScript learning exercises.
 ### Callback-greet.js
 basic example of using a callback function
 ### Callback-task-sequence.js
-Simulates food order process using callback nesting (place order → prepare food → deliver food).
+Simulates food order process using callback nesting (place order → prepare food → deliver food)
 ### promise_OddEven.js
 Check odd or even using Promises
 ### Simulate-Login.js
 Simulates Simple Login using Promise
+### Delayed-Message.js
+Demonstrates async behavior by delaying a message using setTimeout inside a Promise 
 ## How to Run
 ```bash
 node filename.js
