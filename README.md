@@ -3,6 +3,7 @@ This repository contains my JavaScript learning exercises.
 ## Topics Covered
 - Callbacks
 - Promise
+- Async/await
 ## Files
 ### Callback-greet.js
 basic example of using a callback function
@@ -14,6 +15,8 @@ Check odd or even using Promises
 Simulates Simple Login using Promise
 ### Delayed-Message.js
 Demonstrates async behavior by delaying a message using setTimeout inside a Promise 
+### async-getName.js
+Demonstrates basic usage of async/await in JavaScript
 ## How to Run
 ```bash
 node filename.js
