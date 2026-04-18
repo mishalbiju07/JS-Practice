@@ -4,6 +4,7 @@ This repository contains my JavaScript learning exercises.
 - Callbacks
 - Promise
 - Async/await
+- Modules
 ## Files
 ### Callback-greet.js
 basic example of using a callback function
@@ -17,6 +18,8 @@ Simulates Simple Login using Promise
 Demonstrates async behavior by delaying a message using setTimeout inside a Promise 
 ### async-getName.js
 Demonstrates basic usage of async/await in JavaScript
+### Module.js
+This program uses a module to export and import basic math functions like sum, square, to perform calculations such as the area of a circle. 
 ## How to Run
 ```bash
 node filename.js
